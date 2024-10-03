@@ -1,1 +1,1 @@
-# MI-kurs1-html-css-prepp-uppgift
+# Min prepp-uppgift: Git & utvecklingsmiljö
